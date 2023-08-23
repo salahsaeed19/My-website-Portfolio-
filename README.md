@@ -24,13 +24,6 @@ This website serves as a portfolio to highlight my skills as a software engineer
 - Contact Me section with contact information and a form to send messages.
 - Smooth scrolling navigation menu.
 
-## Screenshots
-
-![Home Section](/screenshots/home.png)
-![About Me Section](/screenshots/about.png)
-![Services Section](/screenshots/services.png)
-![Contact Me Section](/screenshots/contact.png)
-
 ## Technologies Used
 
 - HTML
@@ -44,7 +37,7 @@ This website serves as a portfolio to highlight my skills as a software engineer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/salahsaeed19/YourRepository.git
+   git clone https://github.com/salahsaeed19/My-website-Portfolio-.git
    ```
 
 2. Open the `index.html` file in a web browser to view the website.
